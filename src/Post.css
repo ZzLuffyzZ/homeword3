@@ -1,0 +1,32 @@
+.head{
+    display: flex;
+    flex-direction: column;
+    margin-top:1%;
+}
+.a{
+    text-align: center;
+}
+.b{
+    align-self: center;
+    width: 40%;
+    margin-top: 0.5%;
+}
+.c{
+    align-self: center;
+    margin-top: 0.5%;
+}
+
+.d{
+    height: 100px;
+    text-justify: auto;
+    display:flexbox;
+    padding: 2%;
+}
+
+.e{
+    width: 150px;
+    align-self:center;
+}
+.f{
+align-self:center ;
+}
